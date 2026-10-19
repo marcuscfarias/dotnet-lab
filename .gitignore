@@ -55,3 +55,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Diagnostics output (BenchmarkDotNet, dotnet-trace, dotnet-gcdump, dotnet-dump)
+BenchmarkDotNet.Artifacts/
+*.nettrace
+*.gcdump
+*.dmp
