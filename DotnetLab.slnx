@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/shared/">
+    <Project Path="shared/Lab.Diagnostics/Lab.Diagnostics.csproj" />
+  </Folder>
 </Solution>
