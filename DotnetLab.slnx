@@ -1,10 +1,2 @@
 <Solution>
-  <Folder Name="/labs/" />
-  <Folder Name="/labs/00-StringComparison/">
-    <Project Path="labs/00-StringComparison/StringComparison.Benchmarks/StringComparison.Benchmarks.csproj" />
-    <Project Path="labs/00-StringComparison/StringComparison.Console/StringComparison.Console.csproj" />
-  </Folder>
-  <Folder Name="/shared/">
-    <Project Path="shared/Lab.Diagnostics/Lab.Diagnostics.csproj" />
-  </Folder>
 </Solution>
