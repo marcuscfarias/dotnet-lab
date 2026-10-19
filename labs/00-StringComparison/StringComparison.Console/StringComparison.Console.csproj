@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- A "StringComparison" namespace would shadow System.StringComparison, and a ".Console" segment would shadow System.Console. -->
+    <RootNamespace>StringComparisonLab</RootNamespace>
+  </PropertyGroup>
+
+</Project>
